@@ -1,8 +1,8 @@
 /**
  * Hello
  */
-
-import Loop;
+package test;
+import test.Loop;
 
 public class Hello {
 
